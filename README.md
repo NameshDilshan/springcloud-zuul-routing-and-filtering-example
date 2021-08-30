@@ -1,6 +1,6 @@
 # springcloud-zuul-routing-and-filtering-example
 
-Simple example for spring cloud Zuul routing and filtering
+Simple example for spring cloud Zuul API Gateway routing and filtering
 
 
 1. Clone 3 services.
